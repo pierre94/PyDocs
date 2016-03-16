@@ -2,6 +2,7 @@
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
+测试我的crontab脚本是否正常
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
