@@ -1,8 +1,8 @@
 # Welcome to PyDocs
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+一个高效、快乐、简单的python文库。
 
-测试我的crontab脚本是否正常
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
@@ -16,3 +16,9 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+        
+## 参考资料
+    
+    
+        
+Powered By [Github](https://github.com/pierre94/PyDocs) && [Mkdocs](http://www.mkdocs.org/) && [PyDocs](http://pydocs.cn)
