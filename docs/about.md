@@ -1,4 +1,4 @@
-﻿# About
+# About
 关于PyDocs的介绍
 
 ### 关于PyDocs
