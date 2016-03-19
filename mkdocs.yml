@@ -1,6 +1,6 @@
 site_name: PyDocs
 pages:
-- [index.md, Home]
-- [about.md, About]
-copyright: ©2016bear2
+- Home: index.md
+- About: about.md
+copyright: ©2016 pydocs.cn
 site_url: http://pydocs.cn
