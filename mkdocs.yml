@@ -1,12 +1,12 @@
 site_name: PyDocs
 pages:
 - Home: index.md
-- Tutorial:
-  - Tutorial: Tutorial/about-python.md
-- Library:
-  - Library: Library/about-library.md
+- Python基础:
+  - 关于Python: Tutorial/about-python.md
+- Python的库:
+  - 关于库: Library/about-library.md
 - Django:
-  - Django: Django/about-django.md
+  - 关于Django: Django/about-django.md
 - About: about.md
 copyright: ©2016 pydocs.cn
 site_url: http://pydocs.cn
