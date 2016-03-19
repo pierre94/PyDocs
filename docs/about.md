@@ -3,7 +3,7 @@
 
 
 ## 关于PyDocs
-PyDocs(Python文库网)致力于提供最优质的Python资料，为广大pythoner提供一个高效、快乐、简单的学习平台。
+PyDocs(Python文库)致力于提供最优质的Python资料，为广大pythoner提供一个高效、快乐、简单的学习平台。
 
 
 ## PyDocs维护者
