@@ -1,12 +1,12 @@
-### ¹ØÓÚPyDocs
-PyDocs(PythonÎÄ¿âÍø)ÖÂÁ¦ÓÚÌá¹©×îÓÅÖÊµÄPython×ÊÁÏ£¬Îª¹ã´ópythonerÌá¹©Ò»¸ö¸ßÐ§¡¢¿ìÀÖ¡¢¼òµ¥µÄÑ§Ï°Æ½Ì¨¡£
+ï»¿### å…³äºŽPyDocs
+PyDocs(Pythonæ–‡åº“ç½‘)è‡´åŠ›äºŽæä¾›æœ€ä¼˜è´¨çš„Pythonèµ„æ–™ï¼Œä¸ºå¹¿å¤§pythoneræä¾›ä¸€ä¸ªé«˜æ•ˆã€å¿«ä¹ã€ç®€å•çš„å­¦ä¹ å¹³å°ã€‚
 
-###PyDocsÎ¬»¤Õß
+###PyDocsç»´æŠ¤è€…
 - pierre
-Î÷±±¹¤Òµ´óÑ§´óËÄÑ§Éú£¬Python°®ºÃÕß
+è¥¿åŒ—å·¥ä¸šå¤§å­¦å¤§å››å­¦ç”Ÿï¼ŒPythonçˆ±å¥½è€…
 
 - jiong
-Î÷±±¹¤Òµ´óÑ§´óËÄÑ§Éú£¬Python°®ºÃÕß
+è¥¿åŒ—å·¥ä¸šå¤§å­¦å¤§å››å­¦ç”Ÿï¼ŒPythonçˆ±å¥½è€…
 
-»¶Ó­¸ü¶àÈË¼ÓÈëÎÒÃÇ£¡
+æ¬¢è¿Žæ›´å¤šäººåŠ å…¥æˆ‘ä»¬ï¼
 Power By [Github](https://github.com/pierre94/PyDocs) && [Mkdocs](http://www.mkdocs.org/)
