@@ -1,8 +1,8 @@
 site_name: PyDocs
 pages:
 - Home: index.md
-- Tutorial:
-  - python基础: Tutorial/about-python.md
+- Python基础:
+  - 关于python: Tutorial/about-python.md
 - Library:
   -
 - Django:
