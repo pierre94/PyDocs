@@ -2,7 +2,7 @@ site_name: PyDocs
 pages:
 - Home: index.md
 - Tutorial:
-  about-python.md
+  -'关于Python':'Tutorial/about-python.md'
 - About: about.md
 copyright: ©2016 pydocs.cn
 site_url: http://pydocs.cn
