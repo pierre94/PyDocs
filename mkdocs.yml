@@ -6,3 +6,6 @@ pages:
 - About: about.md
 copyright: ©2016 pydocs.cn
 site_url: http://pydocs.cn
+repo_url: https://github.com/pierre94/PyDocs
+site_description: 高效、快乐、简单的Python文库
+site_favicon: http://7rf2gl.com1.z0.glb.clouddn.com/favicon.png
