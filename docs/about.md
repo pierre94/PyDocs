@@ -15,4 +15,5 @@ PyDocs(Python文库网)致力于提供最优质的Python资料，为广大python
 	西北工业大学大四学生，中科院准PHD，Python爱好者
 
 欢迎更多人加入我们！
+------
 Powered By [Github](https://github.com/pierre94/PyDocs) && [Mkdocs](http://www.mkdocs.org/) && [PyDocs](http://pydocs.cn)
