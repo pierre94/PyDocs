@@ -3,6 +3,7 @@ pages:
 - Home: index.md
 - Python基础:
   - 关于Python: Tutorial/about-python.md
+  - 安装Python: Tutorial/install.md
 - Python的库:
   - 关于库: Library/about-library.md
 - Django:
