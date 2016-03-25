@@ -16,6 +16,8 @@ ps: 本站目前适用与Python 2系列，所有示例测试于2.7版本。
 ### Python基础
 >about-python:[关于Python](http://pydocs.cn/Tutorial/about-python)
 
+>install:[安装Python](http://pydocs.cn/Tutorial/install)
+
 ### Python常用库
 >
 
