@@ -11,7 +11,7 @@ pages:
 - 进阶:
   - Python进阶: Intermediate/about-intermediate.md
   - 其他:
-    - args_kwargs: /args_kwargs/README.md
+    - args_kwargs: Intermediate/args_kwargs/README.md
   - 总结: Intermediate/SUMMARY.md
 - About: about.md
 copyright: ©2016 pydocs.cn
