@@ -8,7 +8,7 @@ pages:
   - 关于库: Library/about-library.md
 - Django:
   - 关于Django: Django/about-django.md
-- Intermediate:
+- 进阶:
   - Python进阶: Intermediate/about-intermediate.md
 - About: about.md
 copyright: ©2016 pydocs.cn

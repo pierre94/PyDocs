@@ -9,7 +9,11 @@ Python是纯粹的自由软件， 源代码和解释器CPython遵循 GPL(GNU Gen
 目前Python主要有两个大版本：2系列和3系列，两者之前差异比较大。本站推荐的是2系列，目前最新版本是2.7.11（截止到2016.3.19）。关于新手学习PYthon 2还是3之间的更多讨论，详见[知乎](https://www.zhihu.com/question/21361360)。
 
 -----
+## 老手专区
+有一定编程基础的同学，看下面这个图就能“十分钟入门Python”，信不信由你，反正我信了！
+![pic](http://res.itxiaoji.com/images/C81/F2374DC271EBA276BBD2D4B90AA6F.jpg)
 
+-----
 ## Python的主要应用场景
 ### 1.web开发
 许多大型网站就是用Python开发的，例如YouTube、Instagram，还有国内的知乎、豆瓣。很多大公司，包括Google、Yahoo等，甚至NASA（美国航空航天局）都大量地使用Python。基于Python知名web框架有Django、Flask等，广泛用于各类网站的建设。
